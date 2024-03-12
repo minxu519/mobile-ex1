@@ -31,7 +31,7 @@ header h1 {
   margin: auto;
 }
 
-.header h1 a {
+header h1 a {
   height: 100%;
   width: 100%;
   text-indent: -9999px;
